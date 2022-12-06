@@ -59,4 +59,3 @@ class Solution {
         return $result;
     }
 }
-Console

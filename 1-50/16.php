@@ -35,8 +35,6 @@ class Solution {
 
                 if (abs($target - $temp) < abs($target - $result)) {
                     $result = $temp;
-                    echo "result:".$result;
-                    echo "<BR>";
                 }
 
                 if ($temp < $target) {
